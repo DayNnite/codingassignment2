@@ -1,0 +1,7 @@
+body {
+    background-image: url('images/codingassignment2-background.webp');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+}
